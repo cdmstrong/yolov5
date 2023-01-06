@@ -1,0 +1,6 @@
+[default]
+entity = cdmstrong123
+project = yolo
+base_url = https://api.wandb.ai
+mode = disabled
+
